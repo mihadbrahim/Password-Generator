@@ -1,6 +1,6 @@
 Random Password Generator
 
-[Password Generator Screenshot](images/screenshot for feature.png)
+![Password Generator Screenshot](images/screenshot for feature.png)
 
 Tech Stack
 
